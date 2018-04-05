@@ -1,1 +1,1 @@
-include ':app', ':statickeyword'
+include ':app', ':statickeyword', ':forloop'
